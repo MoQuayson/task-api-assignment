@@ -26,6 +26,7 @@ The API is implemented using Golang's standard library, ensuring no third-party 
 1. Clone the repository:
    ```bash
    git clone https://github.com/MoQuayson/task-api-assignment.git
+   cd task-api-assignment
 
 2. Install Go dependencies:
     ```bash 
